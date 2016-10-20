@@ -10,7 +10,7 @@ using namespace std;
 void simplify()
 {
     int i,n;
-    printf("ÇëÊäÈëÃüÁî£º");
+    printf("ÇëÄúÊäÈëÃüÁî£º");
     char mingling[100];
     for(i=0;i<=100;i++)
     {
